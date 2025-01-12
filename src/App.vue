@@ -44,7 +44,7 @@
       </p>
       <p>
         SQL之母 - SQL 自学网站 ©2023 by
-        <a href="https://github.com/liyupi" target="_blank"></a>
+        <a href="https://github.com/" target="_blank"></a>
       </p>
     </div>
     <a-back-top :style="{ right: '24px' }" />
